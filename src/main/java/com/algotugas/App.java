@@ -23,7 +23,7 @@ public class App extends Application {
         // Directory Scanner
         scene = new Scene(loadFXML("splash"), 640, 480);
         scene.getStylesheets().add(getClass().getResource("styles.css").toExternalForm());
-        stage.setTitle("Recursive Directory Scanner - 24552011092 Hasan Muhammad Sholeh - TIFK24A");
+        stage.setTitle("24552011092 Hasan Muhammad Sholeh - TIFK24A");
         stage.setScene(scene);
         stage.show();
 

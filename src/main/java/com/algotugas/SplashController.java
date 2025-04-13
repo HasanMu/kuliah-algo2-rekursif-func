@@ -47,8 +47,8 @@ public class SplashController {
             // Setelah fade out selesai, ganti ke primary view
             fadeOut.setOnFinished(event -> {
                 try {
-                    App.setRoot("directory-scanner");
-                    // App.setRoot("fibonacci");
+                    // App.setRoot("directory-scanner");
+                    App.setRoot("factorial");
                     
                     // Buat fade in animation untuk root baru
                     Parent newRoot = App.stage.getScene().getRoot();

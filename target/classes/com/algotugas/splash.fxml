@@ -11,7 +11,7 @@
    <children>
       <VBox alignment="CENTER" prefHeight="400.0" prefWidth="600.0" spacing="20.0">
          <children>
-            <ImageView fitHeight="150.0" fitWidth="200.0" pickOnBounds="true" preserveRatio="true" style="-fx-image: url('file:C:/Users/jakarta/Downloads/557162015_utb_kotak_putih_(1).png'); -fx-opacity: .15;" />
+            <ImageView fitHeight="150.0" fitWidth="200.0" pickOnBounds="true" preserveRatio="true" style="-fx-image: url('file:557162015_utb_kotak_putih_(1).png'); -fx-opacity: .15;" />
             <Label text="Loading..." style="-fx-text-fill: white; -fx-font-size: 18px;"/>
             <ProgressBar fx:id="progressBar" prefWidth="300.0" progress="0.0" style="-fx-accent: #ffffff; -fx-background-color: #181C14; -fx-control-inner-background: #181C14; -fx-background-insets: 0; -fx-pref-height: 15px;" />
          </children>

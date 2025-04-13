@@ -35,3 +35,9 @@
 .progress-bar .track {
     -fx-background-color: #181C14;
 }
+
+.button {
+    -fx-background-color: white;
+    -fx-border-color: transparent;
+    -fx-text-fill: #181C14;
+}
